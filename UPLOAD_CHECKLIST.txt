@@ -1,0 +1,14 @@
+Week 5 Final Project Upload Checklist
+========================================
+
+README.md
+requirements.txt
+src/final_analysis.py
+data/breast_cancer_wisconsin_diagnostic.csv
+results/model_metrics.csv
+visualizations/01_class_distribution.png
+visualizations/02_model_performance_comparison.png
+visualizations/03_confusion_matrix.png
+visualizations/04_roc_curves.png
+visualizations/05_feature_importance.png
+report/Week5_Final_Report.docx
